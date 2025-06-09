@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-*Describe why you believe an error was made. You may also include your detection data here if you'd like. Remeber to edit the issue title aswell to include your user id.*
+Describe why you believe an error was made. You may also include your detection data here if you'd like. Remeber to edit the issue title aswell to include your user id.
